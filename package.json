@@ -1,0 +1,19 @@
+{
+  "name": "defifofum.github.io",
+  "version": "1.0.0",
+  "description": "Blog site for DeFiFoFum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.2.3",
+    "nextra": "^2.13.4",
+    "nextra-theme-blog": "^2.13.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
